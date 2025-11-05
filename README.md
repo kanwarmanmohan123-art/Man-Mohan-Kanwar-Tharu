@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manmohan kanwar tharu</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Web developer from Nepal</h3>
 
 <img align="right" alt="My Photo" width="400" src="images/dibash.png">
 
 
-- 🔭 I’m currently working with *PHP and React*
-- 🌱 I’m currently learning *React.js*
+- 🔭 I’m currently working with *C and java *
+- 🌱 I’m currently learning *python*
 - 💬 Ask me about *HTML, CSS, JS, PHP*
 - 📫 How to reach me *Kanwarmanmohan123@gmail.com*
 - ⚡ Fun fact *Coding is not fun until you decide it to be!*
@@ -19,11 +19,11 @@
 
 ### 🌐 Connect with me:
 <p align="left"><a href="https://www.facebook.com/Manmohan.kwr.1" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  <img align="center" src="https://www.linkedin.com/in/man-mohan-kanwar-tharu-3139612a2/" alt="LinkedIn" height="30" width="40" />
 </a>
 
-<a href="https://www.instagram.com/exodia140/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="mailto:dibashmagar1010@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://www.instagram.com/manmohan.kwr.1/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="mailto:kanwarmanmohan123@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ---
 
 ### 📊 My GitHub Stats:
-![Dibash's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIBASH-dotcom&show_icons=true&theme=radical)
+![Man Mohan GitHub stats](https://github.com/kanwarmanmohan123-art/api?username=kanwarmanmohan123-art&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIBASH-dotcom&layout=compact&theme=radical)
-dibashmagar.netlify.app
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanwarmanmohan123-art&layout=compact&theme=radical)
+manmohankanwar.netlify.app
